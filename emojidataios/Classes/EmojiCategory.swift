@@ -19,4 +19,5 @@ public enum EmojiCategory: String, CaseIterable {
   case ACTIVITY = "Activities"
   case FLAGS = "Flags"
   case SMILEYS = "Smileys & Emotion"
+  case COMPONENT = "Component"
 }
